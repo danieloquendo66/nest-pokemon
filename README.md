@@ -22,3 +22,5 @@ yarn install
 ```
 dockerw-compose up -d
 ```
+
+5. Reconstruir la base de datos con la semilla
