@@ -4,6 +4,8 @@
 
 /mongodb
 
+.env
+
 # Logs
 logs
 *.log
